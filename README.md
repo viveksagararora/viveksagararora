@@ -6,7 +6,7 @@ Software Engineering Aspirant
 
 Currently pursuing B.Tech in Computer Science and Engineering from Bennett University with a specialization in Artificial Intelligence and Machine Learning. Skilled in C++, Python, and Machine Learning, with a strong foundation in data structures, algorithms, and software development.Hands-on experience includes building real-world projects like PodLink, a platform connecting podcast enthusiasts; Study Buddy Finder, a tool to help students find compatible study partners; and Sagar Manthan Paratha Planet, a cloud kitchen concept blending creativity with entrepreneurship. Actively exploring opportunities to innovate, collaborate, and grow in the fields of technology and AI.
 
-* 🌍  I'm based in Luthiana, Punjab, India
+* 🌍  I'm based in Ludhiana, Punjab, India
 * ✉️  You can contact me at [viveksagararora7934@gmail.com](mailto:viveksagararora7934@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithms, Machine Learning, System Design and Resume building.
 * 🤝  I'm open to collaborating on DSA based, Machine Learning projects specially in NLP or webdev
